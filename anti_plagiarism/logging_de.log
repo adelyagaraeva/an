@@ -1,0 +1,105 @@
+2023-12-24 10:47:56.087670  logger INFO Parsing arguments
+2023-12-24 10:48:54.983381  logger INFO Parsing arguments
+2023-12-24 10:57:06.426907  logger INFO Parsing arguments parse_arguments
+2023-12-24 10:57:06.426907  logger INFO Successful argument parsing parse_arguments
+2023-12-24 10:58:14.303361 parse_arguments logger INFO Parsing arguments
+2023-12-24 10:58:14.303361 parse_arguments logger INFO Successful argument parsing
+2023-12-24 10:58:43.732177 parse_arguments_name logger INFO Parsing arguments
+2023-12-24 10:58:43.738498 parse_arguments_name logger INFO Successful argument parsing
+2023-12-24 10:58:58.581205 parse_arguments_function logger INFO Parsing arguments
+2023-12-24 10:58:58.583319 parse_arguments_function logger INFO Successful argument parsing
+2023-12-24 10:59:34.976938 parse_arguments_function INFO Parsing arguments
+2023-12-24 10:59:52.563367 parse_arguments_function INFO Parsing arguments
+2023-12-24 10:59:52.570271 parse_arguments_function INFO Successful argument parsing
+2023-12-24 11:04:16.018117 parse_arguments_function INFO Parsing arguments
+2023-12-24 11:04:16.018117 parse_arguments_function INFO Successful argument parsing
+2023-12-24 11:04:16.018117 get_filenames_function INFO Getting filenames
+2023-12-24 11:04:57.288808 parse_arguments_function INFO Parsing arguments
+2023-12-24 11:04:57.288808 parse_arguments_function INFO Successful argument parsing
+2023-12-24 11:04:59.028379 get_filenames_function INFO Getting filenames
+2023-12-24 11:05:07.548396 parse_arguments_function INFO Parsing arguments
+2023-12-24 11:05:07.548396 parse_arguments_function INFO Successful argument parsing
+2023-12-24 11:08:13.049599 get_filenames_function INFO Getting filenames
+2023-12-24 11:15:30.429361 parse_arguments_function INFO Parsing arguments
+2023-12-24 11:15:30.429361 parse_arguments_function INFO Successful argument parsing
+2023-12-24 11:15:30.429361 get_filenames_function INFO Getting filenames
+2023-12-24 11:15:35.087460 __init___function INFO Initializing the model
+2023-12-24 11:17:09.151455 run_function INFO Running the model
+2023-12-24 11:23:49.351525 parse_arguments_function INFO Parsing arguments
+2023-12-24 11:23:49.351525 parse_arguments_function INFO Successful argument parsing
+2023-12-24 11:23:49.351525 get_filenames_function INFO Getting filenames
+2023-12-24 11:23:55.292676 __init___function INFO Initializing the model
+2023-12-24 11:24:12.970146 run_function INFO Running the model
+2023-12-24 11:24:49.224181 preprocessing_function INFO Code preprocessing
+2023-12-24 11:24:56.721369 read_file_function INFO File reading
+2023-12-24 11:24:57.956257 read_file_function INFO Successful file reading
+2023-12-24 11:25:09.400236 parse_arguments_function INFO Parsing arguments
+2023-12-24 11:25:09.403044 parse_arguments_function INFO Successful argument parsing
+2023-12-24 11:25:09.403044 get_filenames_function INFO Getting filenames
+2023-12-24 11:25:12.001722 __init___function INFO Initializing the model
+2023-12-24 11:25:15.998276 run_function INFO Running the model
+2023-12-24 11:25:20.380062 preprocessing_function INFO Code preprocessing
+2023-12-24 11:25:25.179881 read_file_function INFO File reading
+2023-12-24 11:25:29.178304 read_file_function INFO Successful file reading
+2023-12-24 11:27:17.092082 preprocessing_function INFO Code preprocessing
+2023-12-24 11:27:17.525431 read_file_function INFO File reading
+2023-12-24 11:27:17.526454 read_file_function INFO Successful file reading
+2023-12-24 11:37:30.437062 parse_arguments_function INFO Parsing arguments
+2023-12-24 11:37:30.438209 parse_arguments_function INFO Successful argument parsing
+2023-12-24 11:37:30.438209 get_filenames_function INFO Getting filenames
+2023-12-24 11:37:30.438209 __init___function INFO Initializing the model
+2023-12-24 11:37:30.438209 run_function INFO Running the model
+2023-12-24 11:37:30.438209 preprocessing_function INFO Code preprocessing
+2023-12-24 11:37:30.438209 read_file_function INFO File reading
+2023-12-24 11:37:30.438209 read_file_function INFO Successful file reading
+2023-12-24 11:37:30.438209 preprocessing_function INFO Code preprocessing
+2023-12-24 11:37:30.438209 read_file_function INFO File reading
+2023-12-24 11:37:30.438209 read_file_function INFO Successful file reading
+2023-12-24 11:37:30.442214 compare_function INFO Comparing files
+2023-12-24 11:37:30.443141 print_result_function INFO Getting results of comparison
+2023-12-24 11:50:26.408430 parse_arguments_function INFO Parsing arguments
+2023-12-24 11:50:26.410091 parse_arguments_function INFO Successful argument parsing
+2023-12-24 11:50:26.410091 get_filenames_function INFO Getting filenames
+2023-12-24 11:50:42.716204 __init___function INFO Initializing the model
+2023-12-24 11:50:45.837604 run_function INFO Running the model
+2023-12-24 11:50:48.384437 preprocessing_function INFO Code preprocessing
+2023-12-24 11:50:48.384437 read_file_function INFO File reading
+2023-12-24 11:50:48.387766 read_file_function INFO File has been read successfully
+2023-12-24 11:50:48.399610 preprocessing_function INFO Code preprocessing
+2023-12-24 11:50:48.399610 read_file_function INFO File reading
+2023-12-24 11:50:48.399610 read_file_function INFO File has been read successfully
+2023-12-24 11:50:48.971818 compare_function INFO Comparing files
+2023-12-24 11:50:49.702988 print_result_function INFO Getting results of comparison
+2023-12-24 11:51:23.796402 parse_arguments_function INFO Parsing arguments
+2023-12-24 11:51:23.796402 parse_arguments_function INFO Successful argument parsing
+2023-12-24 11:51:23.796402 get_filenames_function INFO Getting filenames
+2023-12-24 11:51:23.796402 __init___function INFO Initializing the model
+2023-12-24 11:51:23.796402 run_function INFO Running the model
+2023-12-24 11:51:23.796402 preprocessing_function INFO Code preprocessing
+2023-12-24 11:51:23.796402 read_file_function INFO File reading
+2023-12-24 11:51:23.796402 read_file_function INFO File has been read successfully
+2023-12-24 11:51:57.254926 preprocessing_function INFO Code preprocessing
+2023-12-24 11:51:57.254926 read_file_function INFO File reading
+2023-12-24 11:51:57.254926 read_file_function INFO File has been read successfully
+2023-12-24 11:52:08.061002 parse_arguments_function INFO Parsing arguments
+2023-12-24 11:52:08.061002 parse_arguments_function INFO Successful argument parsing
+2023-12-24 11:52:08.061002 get_filenames_function INFO Getting filenames
+2023-12-24 11:52:08.061002 __init___function INFO Initializing the model
+2023-12-24 11:52:08.061002 run_function INFO Running the model
+2023-12-24 11:52:08.061002 preprocessing_function INFO Code preprocessing
+2023-12-24 11:52:08.061002 read_file_function INFO File reading
+2023-12-24 11:52:08.061002 read_file_function INFO File has been read successfully
+2023-12-24 12:24:04.869062 parse_arguments_function INFO Parsing arguments
+2023-12-24 12:27:20.720142 parse_arguments_function INFO Parsing arguments
+2023-12-24 12:27:20.720142 parse_arguments_function INFO Successful argument parsing
+2023-12-24 12:27:20.720142 get_filenames_function INFO Getting filenames
+2023-12-24 12:27:20.720142 __init___function INFO Initializing the model
+2023-12-24 12:27:20.720142 run_function INFO Running the model
+2023-12-24 12:27:20.720142 preprocessing_function INFO Code preprocessing
+2023-12-24 12:27:20.720142 read_file_function INFO File reading
+2023-12-24 12:27:20.720142 read_file_function INFO File has been read successfully
+2023-12-24 12:27:20.720142 preprocessing_function INFO Code preprocessing
+2023-12-24 12:27:20.720142 read_file_function INFO File reading
+2023-12-24 12:27:20.720142 read_file_function INFO File has been read successfully
+2023-12-24 12:27:20.720142 compare_function INFO Comparing files
+2023-12-24 12:27:20.734692 print_result_function INFO Getting results of comparison
